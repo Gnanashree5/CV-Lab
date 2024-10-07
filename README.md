@@ -4,7 +4,7 @@ Its a regular aasignment of CV Lab
 ## CV_Lab1,2
 This consists of following table of contents
 
-###Table of conntents
+### Table of conntents
 1. Printing images
 2. Print minimum and maximum pixcel
 3. Contert to grayscale
