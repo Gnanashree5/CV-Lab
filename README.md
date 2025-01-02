@@ -1,4 +1,4 @@
-# CV-Lab
+# IMAGE PREPROCESSING USING OPENCV
 Its a regular aasignment of CV Lab
 
 
